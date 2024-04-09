@@ -3,8 +3,6 @@
 
 ---
 
-<h1 id="multithreaded-property-data-scraping-and-storage">Multithreaded Property Data Scraping and Storage</h1>
-<p>Web scraping by Python multithreading to create MS Excel report.</p>
 <p>This open project is made available under the following terms and conditions:</p>
 <ul>
 <li><strong>Academic and Technical Exchange Usage Only:</strong> This project is intended solely for academic and technical exchange purposes. It is provided to facilitate learning, research, and collaboration within academic and technical communities.</li>
@@ -15,6 +13,7 @@
 </ul>
 <p>By accessing or using this project, you agree to abide by the terms of this license. If you do not agree with these terms, you are not permitted to access or use the materials within this project.</p>
 <hr>
+<h1 id="multithreaded-property-data-scraping-and-storage">Multithreaded Property Data Scraping and Storage</h1>
 <p>This project employs multithreading in Python to efficiently scrape property data from two prominent sources: <a href="https://www.propertyvalue.com.au/">Property Value</a> and <a href="https://sqmresearch.com.au/">SQM Research</a>. The scraped data is then stored into a SQLite database for easy access and manipulation.</p>
 <h2 id="features">Features</h2>
 <ul>
